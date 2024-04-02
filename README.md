@@ -1,6 +1,6 @@
 # Welcome to My Digital Playground! 🎉🚀
 
-Hey there! I'm **Antonietta**, italian girl and an aspiring **wizard of coding** with a flair for **innovative design** and **unleashing boundless creativity**. My mantra? "Embrace the art of learning and turn it into digital magic", 
+Hey there! I'm **Antonietta**, an Italian girl and an aspiring **wizard of coding** with a flair for **innovative design** and **unleashing boundless creativity**. My mantra? "Embrace the art of learning and turn it into digital magic", 
 because I thrive on diving into new challenges and turning ideas into reality.
 
 ## Who Am I?
