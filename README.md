@@ -1,8 +1,8 @@
 <img src="https://drive.google.com/uc?id=1JU3B69inEhiYQ-bVAzS6f7zYs61mRr0E">
 
-# Welcome to My Digital Playground! 🎉🚀
+# Welcome to My Digital Playground!✨🚀🌟
 
-Hey there! I'm **Antonietta**, an Italian girl and an aspiring **wizard of coding** with a flair for **innovative design** and **unleashing boundless creativity**. My mantra? "Embrace the art of learning and turn it into digital magic", 
+Hey there! I'm **Antonietta**, an Italian girl and an aspiring **wizard of coding** with a flair for **innovative design** and **unleashing boundless creativity**. My mantra? <em>"Embrace the art of learning and turn it into digital magic"</em>, 
 because I thrive on diving into new challenges and turning ideas into reality.
 
 ## Who Am I?
@@ -21,7 +21,7 @@ Don't hesitate to reach out! Together, we can create something truly extraordina
 
 You can connect with me on [LinkedIn] <a href="https://www.linkedin.com/in/antonietta-martino/">AntoMar</a>
 
-Let's script the next chapter of our digital adventure! 😊🌟
+Let's script the next chapter of our digital adventure! ✨
 
 <!---
 antomar93/antomar93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
