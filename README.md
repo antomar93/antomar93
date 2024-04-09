@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/uc?id=1VPtvHcEB-ogJPgdTvmvSfsOSnZ3y_Kpu">
+<img src="https://drive.google.com/uc?id=1wR09lDIU4HIWPoXRsOSWUyBURVLmynaO">
 
 # Welcome to My Digital Playground!🚀
 
