@@ -9,9 +9,6 @@ because I thrive on diving into new challenges and turning ideas into reality.
 
 During my journey through Generation and Architecture studies, I've honed my skills in **building dynamic teams** and **dreaming up game-changing solutions**. 
 I lead by example, fueling others with passion and showing that success is a journey we walk together.
-
-## What Sets Me Apart?
-
 My hunger for knowledge knows no bounds, my thirst for improvement insatiable. I'm always seeking **new challenges**, 
 craving **feedback that pushes me beyond my limits**, and weaving **new tales through the language of code**.
 
@@ -22,7 +19,7 @@ Don't hesitate to reach out! Together, we can create something truly extraordina
 
 ## How to Find Me
 
-You can connect with me on [LinkedIn]([https://www.linkedin.com/in/antonietta-martino/]).
+You can connect with me on [LinkedIn]<a href="https://www.linkedin.com/in/antonietta-martino/">
 
 Let's script the next chapter of our digital adventure! 😊🌟
 
