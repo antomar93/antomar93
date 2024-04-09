@@ -19,7 +19,7 @@ Don't hesitate to reach out! Together, we can create something truly extraordina
 
 ## How to Find Me
 
-You can connect with me on [LinkedIn]<a href="https://www.linkedin.com/in/antonietta-martino/">
+You can connect with me on [LinkedIn] <a href="https://www.linkedin.com/in/antonietta-martino/">AntoMar</a>
 
 Let's script the next chapter of our digital adventure! 😊🌟
 
