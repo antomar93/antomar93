@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/uc?id=1JU3B69inEhiYQ-bVAzS6f7zYs61mRr0E">
+
 # Welcome to My Digital Playground! 🎉🚀
 
 Hey there! I'm **Antonietta**, an Italian girl and an aspiring **wizard of coding** with a flair for **innovative design** and **unleashing boundless creativity**. My mantra? "Embrace the art of learning and turn it into digital magic", 
